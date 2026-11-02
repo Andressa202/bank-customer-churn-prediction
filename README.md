@@ -205,7 +205,7 @@ The project highlights practical skills in data preprocessing, feature encoding,
 
 ## 👩‍💻 Author
 
-**Andressa Cruz Miranda**
+**Andressa Miranda**
 
 Computer Science | Data Analytics | Python | Machine Learning
 
